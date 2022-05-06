@@ -9,6 +9,11 @@ Este é um pequeno widget (FeedGet ↔  feedback + widget) para possibilitar o e
   <img src="/doc/tela04.jpeg" style="width: 50%; margin: 10px">
 </div>
 
+![Alt ou título da imagem](/doc/tela01.jpeg)
+![Alt ou título da imagem](/doc/tela02.jpeg)
+![Alt ou título da imagem](/doc/tela03.jpeg)
+![Alt ou título da imagem](/doc/tela04.jpeg)
+
 ## Tecnologias
 
 - React Native
