@@ -1,15 +1,15 @@
 # App FeedGet 
 
-Este é um pequeno widget (FeedGet ↔  feedback + widget) para possibilitar o envio de feedbacks em um aplicativo web ou mobile. Com ele é possível enviar uma mensagem por email com a captura da tela, bem como armazenar as informações em um banco de dados.
+Este é um pequeno widget (FeedGet ↔  feedback + widget) para possibilitar o envio de feedbacks em um aplicativo web ou mobile. Foi desnvolvido no NWL Return da Rocketseat. Com ele é possível enviar uma mensagem por email com a captura da tela, bem como armazenar as informações em um banco de dados.
 
   <p>Tela inicial</p>
-  <img src="/doc/tela01.jpeg" style="width: 50%; margin: 10px; border: 1px solid  #fff"></br>
+  <img src="/doc/tela01.jpeg"></br>
   <p>Tipos de feedbacks</p>
-  <img src="/doc/tela02.jpeg" style="width: 50%; margin: 10px; border: 1px solid  #fff"></br>
+  <img src="/doc/tela02.jpeg"></br>
   <p>Mensagem e captura da tela</p>
-  <img src="/doc/tela03.jpeg" style="width: 50%; margin: 10px; border: 1px solid  #fff"></br>
+  <img src="/doc/tela03.jpeg"></br>
   <p>Confirmação de envio</p>
-  <img src="/doc/tela04.jpeg" style="width: 50%; margin: 10px; border: 1px solid  #fff"></br>
+  <img src="/doc/tela04.jpeg"></br>
 
 ## Tecnologias
 
