@@ -18,7 +18,10 @@ export function Success({ onSendAnotherFeedback }: Props) {
 
       <Text style={styles.title}>Agradecemos o feedback!</Text>
 
-      <TouchableOpacity style={styles.button} onPress={onSendAnotherFeedback}>
+      <TouchableOpacity
+        style={styles.button}
+        onPress={onSendAnotherFeedback}
+      >
         <Text style={styles.buttonTitle}>Quero enviar outro</Text>
       </TouchableOpacity>
 

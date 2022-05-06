@@ -11,7 +11,7 @@ import { styles } from './styles';
 
 interface Props {
   onFeedbackTypeChanged: (feedbackType: FeedbackType) => void;
-}
+ }
 
 export function Options({ onFeedbackTypeChanged }: Props) {
   return (
