@@ -8,7 +8,7 @@ Este é um pequeno widget (FeedGet ↔  feedback + widget) para possibilitar o e
   <img src="/doc/tela02.jpeg" style="width: 50%; margin: 10px; border: 1px solid  #fff"></br>
   <p>Mensagem e captura da tela</p>
   <img src="/doc/tela03.jpeg" style="width: 50%; margin: 10px; border: 1px solid  #fff"></br>
-  <p>Confirmação</p>
+  <p>Confirmação de envio</p>
   <img src="/doc/tela04.jpeg" style="width: 50%; margin: 10px; border: 1px solid  #fff"></br>
 
 ## Tecnologias
